@@ -1,4 +1,4 @@
-# DivineRPG 3.2.6 | 1.7.10 | Автор: <b>OptimusMac</b>
+# DivineRPG 3.2.6 | 1.7.10 | Автор: <b>OptimusMac, Might</b>
 
 Исключительно новый DivineRPG
 
